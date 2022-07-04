@@ -1,0 +1,25 @@
+h1
+{
+    border: 3px rgb(188, 215, 238) outset;
+    text-align: center;
+    color :rgb(8, 8, 8);
+}
+p
+{
+    font-size: 1.6em;
+    text-align: justify;
+}
+h3
+{
+    color: rgb(241, 15, 15);
+    font-size: 2em;
+}
+body
+{
+    background-color: aquamarine;
+    background: url("back.jpeg") fixed no-repeat top right;
+}
+p:hover
+{
+    border: left 3px solid black;
+}
